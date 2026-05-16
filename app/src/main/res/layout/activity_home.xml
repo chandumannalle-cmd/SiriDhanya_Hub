@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Siri-Dhanya Hub"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/btnMandi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mandi Watch"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnRecipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recipe Lab"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnHealth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Health Benefits"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnBuy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Direct Buy"/>
+</LinearLayout>

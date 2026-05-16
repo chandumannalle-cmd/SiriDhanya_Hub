@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#2E7D32</color> <!-- green -->
+    <color name="primaryDark">#1B5E20</color>
+    <color name="accent">#FF9800</color> <!-- orange -->
+    <color name="background">#F5F5F5</color>
+    <color name="white">#FFFFFF</color>
+</resources>

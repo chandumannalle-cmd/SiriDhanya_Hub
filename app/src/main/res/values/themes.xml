@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="Theme.SiriDhanyaHub" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryDark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="MainButton">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
